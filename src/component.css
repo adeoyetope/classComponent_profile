@@ -1,0 +1,12 @@
+.image{
+    width: 400px;
+    height: 300px;
+}
+.paragraph{
+    font-family: monospace; color: blue;
+}
+
+.fullname{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
